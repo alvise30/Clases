@@ -1,0 +1,18 @@
+//Arreglos de textos
+
+#include <stdio.h>
+#include <string.h>
+
+int main(void){
+
+  char nombre[256];
+  char apellido[256];
+  char apodo[256];
+  int yr;
+
+  //
+  printf("Basura en el string nombre%s\n");
+  printf("Basura en el string apellido%s\n");
+    printf("Basura en el string apodo &s\n");
+  return = 0;
+}
